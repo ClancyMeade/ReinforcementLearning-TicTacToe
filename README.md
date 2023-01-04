@@ -3,9 +3,9 @@ In this project I used Reinforcement Learning to train two agents to play TicTac
 I implemented Q-Learning in java to train each agent.
 
 ### Usage 
-```java 
+```make
 
-// Train player1 against a random player2 
+# Train player1 against a random player2 
 make trainP1
 
 // Train player2 against a random player1
