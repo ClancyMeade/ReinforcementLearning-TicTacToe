@@ -8,12 +8,12 @@ I implemented Q-Learning in java to train each agent.
 # Train player1 against a random player2 
 make trainP1
 
-// Train player2 against a random player1
+# Train player2 against a random player1
 make trainP2
 
-// Train both players against eachother 
+# Train both players against eachother 
 make train
 
-// Play against the computer 
+# Play against the computer 
 make play
 ```
